@@ -184,15 +184,6 @@ interface FullStackSkills {
 
 ---
 
-<div align="center">
-  
-### 🎖️ GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SimgeBozdogan&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 *"Frontend'ten backend'e, database'den deployment'a - her katmanda değer yaratmak!"* 🚀
 
 <div align="center">
