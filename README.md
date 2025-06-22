@@ -140,15 +140,19 @@ interface FullStackSkills {
 }
 ```
 
+## 📈 Kod Aktivitelerim
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🤝 Benimle İletişim
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simge-bozdogan-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simge-bozdogan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimgeBozdogan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simge.bozdogan.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://simgebozdogan.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simge_codes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simge.bozdogan@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -162,35 +166,16 @@ interface FullStackSkills {
   ⭐ **Projelerimi beğendiysen star vermeyi unutma!**
   
   📫 **Full Stack Developer pozisyonları için her zaman açığım!**
-  
-  🚀 **Remote çalışma ve freelance projeler için de ulaşabilirsiniz!**
 </div>
 
 ## 🏅 Son Full Stack Aktiviteler
 
-- 🔨 **Şu an:** Full stack e-commerce projesi geliştiriyorum (React + Node.js + MongoDB)
-- 📚 **Öğreniyor:** Advanced TypeScript patterns ve GraphQL API development
-- 🗄️ **Optimize ediyorum:** Database query performance ve caching strategies
-- 🌐 **Araştırıyorum:** Microservices architecture ve containerization best practices
-- ☁️ **Planlıyorum:** AWS deployment ve CI/CD pipeline kurulumu
-- 🎯 **Hedefliyorum:** Next.js ve server-side rendering expertise
-
-## 🔮 Yakında Gelecek Projeler
-
-- 🛒 **Full Stack E-Commerce Platform** (React + Node.js + PostgreSQL + Stripe)
-- 📱 **Real-time Chat Application** (Socket.io + React + Express)
-- 🎮 **Multiplayer Online Game** (WebSocket + Canvas API + Node.js)
-- 📊 **Analytics Dashboard** (D3.js + React + RESTful APIs)
+- 🔨 Full stack drag & drop application geliştiriyorum
+- 📚 Advanced Node.js ve TypeScript öğreniyorum
+- 🗄️ Database optimization teknikleri üzerinde çalışıyorum
+- 🌐 RESTful API best practices araştırıyorum
+- ☁️ Cloud deployment için AWS öğreniyorum
 
 ---
 
-*"Frontend'ten backend'e, database'den deployment'a - her katmanda değer yaratmak!"* 🚀
-
-<div align="center">
-  
-**💼 İş fırsatları, freelance projeler ve işbirliği önerileri için:**  
-📧 **simge.bozdogan.dev@gmail.com**  
-📱 **LinkedIn'den mesaj atabilirsiniz**  
-
-
-</div> 
+*"Frontend'ten backend'e, database'den deployment'a - her katmanda değer yaratmak!"* 🚀 
