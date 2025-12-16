@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | QA Engineer | Business Analyst**
 
-*Building intelligent platforms that bridge the gap between technical requirements and business strategy*
+*Full-Stack Developer | QA & Testing | Requirement Management*
 
 </div>
 
@@ -12,28 +12,26 @@
 
 ## About
 
-Simge Bozdogan is a Full-Stack Developer focused on building platforms that integrate software development, quality assurance, and business analysis. She works with modern web technologies to create solutions that help teams manage requirements, implement testing strategies, and make informed decisions about product releases.
+Simge Bozdogan is a Full-Stack Developer working with Node.js, Express, and modern JavaScript. She builds web applications that combine software development practices with quality assurance and requirement management.
 
-Her projects demonstrate a practical approach to connecting technical implementation with business needs, emphasizing clean code, efficient testing, and user-centered design.
+Currently exploring ways to integrate AI-powered testing, automated test generation, and risk assessment into development workflows.
 
 ## Expertise
 
 **Full-Stack Development**
-- Building scalable applications with Node.js, Express.js, and modern JavaScript
-- Creating intuitive user interfaces with HTML, CSS, and vanilla JavaScript
-- Designing and implementing RESTful APIs and database solutions
+- Building applications with Node.js, Express.js, and JavaScript
+- Creating user interfaces with HTML, CSS, and vanilla JavaScript
+- Working with RESTful APIs and databases
 
 **Quality Assurance & Testing**
-- AI-powered test generation and automation
-- Smart regression testing based on code change analysis
-- Flaky test detection and risk-based testing strategies
-- Integration of testing processes into development workflows
+- Automated test generation
+- Regression testing strategies
+- Test result analysis
 
-**Business Analysis**
-- Requirement management and traceability
-- Connecting technical implementations with business objectives
-- Risk assessment and release decision support
-- API change detection and impact analysis
+**Tools & Practices**
+- Requirement management
+- Code change tracking
+- Release risk assessment
 
 ## Featured Project
 
@@ -50,7 +48,7 @@ A comprehensive full-stack platform that manages the entire product development 
 
 **Technology Stack:** Node.js, Express.js, SQLite, Vanilla JavaScript, HTML5, CSS3
 
-This project showcases an integrated approach to product development, bringing together requirement management, automated testing, and release decision-making in a single platform.
+This platform combines requirement tracking, test management, and release assessment in one place.
 
 ## Technical Skills
 
