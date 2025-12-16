@@ -10,45 +10,48 @@
 
 ## About
 
-I'm a Full-Stack Developer working with Node.js, Express, and modern JavaScript. I build web applications that combine software development practices with quality assurance and requirement management.
+I'm a Full-Stack Developer specializing in building platforms that integrate software development, quality assurance, and business analysis. I work primarily with Node.js, Express.js, and modern JavaScript to create applications that help teams manage requirements, implement testing strategies, and make data-driven release decisions.
 
-I'm currently exploring ways to integrate AI-powered testing, automated test generation, and risk assessment into development workflows.
+My work focuses on connecting technical implementation with business objectives, with a particular interest in AI-powered testing automation, requirement traceability, and risk-based release assessment.
 
 ## Expertise
 
 **Full-Stack Development**
-- Building applications with Node.js, Express.js, and JavaScript
-- Creating user interfaces with HTML, CSS, and vanilla JavaScript
-- Working with RESTful APIs and databases
+- Node.js, Express.js, JavaScript (ES6+)
+- RESTful API design and implementation
+- SQLite and relational database design
+- HTML5, CSS3, vanilla JavaScript for frontend development
 
 **Quality Assurance & Testing**
-- Automated test generation
-- Regression testing strategies
-- Test result analysis
+- Automated test generation and execution
+- Regression testing strategies and implementation
+- Flaky test detection and analysis
+- Test result tracking and reporting
 
-**Tools & Practices**
-- Requirement management
-- Code change tracking
+**Development Practices**
+- Requirement management and traceability
+- Code change impact analysis
 - Release risk assessment
+- API change detection and versioning
 
 ## Featured Project
 
 ### [Product Quality & Decision Platform](https://github.com/SimgeBozdogan/product-quality-platform)
 
-A comprehensive full-stack platform that manages the entire product development lifecycle from requirement definition to release decisions.
+A full-stack platform for managing product requirements, automated test generation, and release risk assessment. The system integrates requirement tracking, AI-powered test scenario generation, and data-driven release decision support.
 
-**Key Features:**
-- **Requirement Management**: Centralized tracking of user stories, acceptance criteria, and business requirements
-- **AI-Powered Test Generation**: Automatic generation of test scenarios from business requirements
-- **Smart Regression Testing**: Intelligent test selection based on code change analysis
-- **Risk Assessment**: Data-driven evaluation of release readiness with business impact analysis
-- **API Change Detection**: Automated monitoring of API changes and their potential impact on dependent systems
+**Technical Implementation:**
+- Backend: Node.js, Express.js, SQLite
+- Frontend: Vanilla JavaScript, HTML5, CSS3
+- Features: Requirement management, automated test generation, regression testing, API change detection
 
-**Technology Stack:** Node.js, Express.js, SQLite, Vanilla JavaScript, HTML5, CSS3
+**Key Capabilities:**
+- Centralized requirement tracking with user stories and acceptance criteria
+- Automated test scenario generation from business requirements
+- Risk-based regression testing based on code change analysis
+- Release readiness assessment with business impact evaluation
 
-This platform combines requirement tracking, test management, and release assessment in one place. It's one of my main projects demonstrating full-stack development with integrated QA practices.
-
-## Technical Skills
+## Tech Stack
 
 **Languages & Frameworks**
 - JavaScript (ES6+)
@@ -56,27 +59,23 @@ This platform combines requirement tracking, test management, and release assess
 - Express.js
 - HTML5, CSS3
 
-**Databases & Tools**
+**Databases & Storage**
 - SQLite
 - RESTful APIs
-- Git & GitHub
-- GitHub Actions
 
-**Testing & QA**
-- Automated Test Generation
-- Regression Testing
-- Test Result Analysis
-- Flaky Test Detection
+**Tools & Version Control**
+- Git, GitHub
+- GitHub Actions
 
 ## Connect
 
 - **GitHub**: [@SimgeBozdogan](https://github.com/SimgeBozdogan)
-- **Email**: [Contact via GitHub](https://github.com/SimgeBozdogan)
+- **Email**: Available via GitHub profile
 
 ---
 
 <div align="center">
 
-*Open to collaboration and new opportunities*
+*Open to collaboration and professional opportunities*
 
 </div>
