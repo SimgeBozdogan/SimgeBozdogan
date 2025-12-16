@@ -1,85 +1,86 @@
 <div align="center">
 
-# Hi there, I'm Simge 👋
+# Simge Bozdogan
 
 **Full-Stack Developer | QA Engineer | Business Analyst**
 
-Building platforms that connect technical requirements with business decisions
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimgeBozdogan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+*Building intelligent platforms that bridge the gap between technical requirements and business strategy*
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a Full-Stack Developer who bridges the gap between code and business strategy. I specialize in building platforms that integrate QA processes, requirement management, and AI-powered decision support systems.
+Simge Bozdogan is a Full-Stack Developer with a unique combination of technical expertise and business acumen. She specializes in creating end-to-end platforms that integrate software development, quality assurance, and business analysis into cohesive solutions.
 
-**What drives me:**
-- Creating end-to-end solutions that solve real business problems
-- Implementing smart testing strategies with AI support
-- Connecting technical implementations with business requirements
+With a strong foundation in modern web technologies and a deep understanding of software quality processes, Simge builds platforms that help organizations make data-driven decisions about product releases, manage requirements effectively, and implement intelligent testing strategies.
 
-## 💼 Skills & Expertise
+## Expertise
 
-### Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Full-Stack Development**
+- Building scalable applications with Node.js, Express.js, and modern JavaScript
+- Creating intuitive user interfaces with HTML, CSS, and vanilla JavaScript
+- Designing and implementing RESTful APIs and database solutions
 
-### QA & Testing
-- AI-powered test generation
-- Automated regression testing
-- Flaky test detection
-- Risk-based testing strategies
+**Quality Assurance & Testing**
+- AI-powered test generation and automation
+- Smart regression testing based on code change analysis
+- Flaky test detection and risk-based testing strategies
+- Integration of testing processes into development workflows
 
-### Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=rest&logoColor=white)
+**Business Analysis**
+- Requirement management and traceability
+- Connecting technical implementations with business objectives
+- Risk assessment and release decision support
+- API change detection and impact analysis
 
-## 🎯 Featured Project
+## Featured Project
 
 ### [Product Quality & Decision Platform](https://github.com/SimgeBozdogan/product-quality-platform)
 
-A comprehensive full-stack platform that manages the entire product development lifecycle:
+A comprehensive full-stack platform that manages the entire product development lifecycle from requirement definition to release decisions.
 
-✨ **Key Features:**
-- Requirement management with user stories and acceptance criteria
-- AI-powered test scenario generation
-- Smart regression testing based on code changes
-- Risk assessment for release decisions
-- API change detection and impact analysis
+**Key Features:**
+- **Requirement Management**: Centralized tracking of user stories, acceptance criteria, and business requirements
+- **AI-Powered Test Generation**: Automatic generation of test scenarios from business requirements
+- **Smart Regression Testing**: Intelligent test selection based on code change analysis
+- **Risk Assessment**: Data-driven evaluation of release readiness with business impact analysis
+- **API Change Detection**: Automated monitoring of API changes and their potential impact on dependent systems
 
-**Tech Stack:** Node.js, Express.js, SQLite, Vanilla JavaScript
+**Technology Stack:** Node.js, Express.js, SQLite, Vanilla JavaScript, HTML5, CSS3
 
-This project demonstrates my ability to integrate multiple disciplines (development, QA, business analysis) into a cohesive platform.
+This project demonstrates Simge's ability to integrate multiple disciplines - software development, quality assurance, and business analysis - into a unified platform that solves real-world challenges in product development.
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimgeBozdogan&show_icons=true&theme=radical&hide_border=true)
+**Languages & Frameworks**
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- HTML5, CSS3
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimgeBozdogan&layout=compact&theme=radical&hide_border=true)
+**Databases & Tools**
+- SQLite
+- RESTful APIs
+- Git & GitHub
+- GitHub Actions
 
-</div>
+**Testing & QA**
+- Automated Test Generation
+- Regression Testing
+- Test Result Analysis
+- Flaky Test Detection
 
-## 🤝 Let's Connect
+## Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 [Email](mailto:your-email@example.com)
+- **GitHub**: [@SimgeBozdogan](https://github.com/SimgeBozdogan)
+- **Email**: [Contact via GitHub](https://github.com/SimgeBozdogan)
 
 ---
 
 <div align="center">
 
-⭐️ Thanks for visiting! ⭐️
+*Building software that matters*
 
 </div>
-
