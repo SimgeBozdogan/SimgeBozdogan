@@ -4,8 +4,6 @@
 
 **Full-Stack Developer | QA Engineer | Business Analyst**
 
-*Full-Stack Developer | QA & Testing | Requirement Management*
-
 </div>
 
 ---
@@ -79,6 +77,6 @@ This platform combines requirement tracking, test management, and release assess
 
 <div align="center">
 
-*Building software that matters*
+*Open to collaboration and new opportunities*
 
 </div>
