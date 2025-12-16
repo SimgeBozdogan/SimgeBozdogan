@@ -12,9 +12,9 @@
 
 ## About
 
-Simge Bozdogan is a Full-Stack Developer with a unique combination of technical expertise and business acumen. She specializes in creating end-to-end platforms that integrate software development, quality assurance, and business analysis into cohesive solutions.
+Simge Bozdogan is a Full-Stack Developer focused on building platforms that integrate software development, quality assurance, and business analysis. She works with modern web technologies to create solutions that help teams manage requirements, implement testing strategies, and make informed decisions about product releases.
 
-With a strong foundation in modern web technologies and a deep understanding of software quality processes, Simge builds platforms that help organizations make data-driven decisions about product releases, manage requirements effectively, and implement intelligent testing strategies.
+Her projects demonstrate a practical approach to connecting technical implementation with business needs, emphasizing clean code, efficient testing, and user-centered design.
 
 ## Expertise
 
@@ -50,7 +50,7 @@ A comprehensive full-stack platform that manages the entire product development 
 
 **Technology Stack:** Node.js, Express.js, SQLite, Vanilla JavaScript, HTML5, CSS3
 
-This project demonstrates Simge's ability to integrate multiple disciplines - software development, quality assurance, and business analysis - into a unified platform that solves real-world challenges in product development.
+This project showcases an integrated approach to product development, bringing together requirement management, automated testing, and release decision-making in a single platform.
 
 ## Technical Skills
 
