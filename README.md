@@ -10,9 +10,9 @@
 
 ## About
 
-Simge Bozdogan is a Full-Stack Developer working with Node.js, Express, and modern JavaScript. She builds web applications that combine software development practices with quality assurance and requirement management.
+I'm a Full-Stack Developer working with Node.js, Express, and modern JavaScript. I build web applications that combine software development practices with quality assurance and requirement management.
 
-Currently exploring ways to integrate AI-powered testing, automated test generation, and risk assessment into development workflows.
+I'm currently exploring ways to integrate AI-powered testing, automated test generation, and risk assessment into development workflows.
 
 ## Expertise
 
@@ -46,7 +46,7 @@ A comprehensive full-stack platform that manages the entire product development 
 
 **Technology Stack:** Node.js, Express.js, SQLite, Vanilla JavaScript, HTML5, CSS3
 
-This platform combines requirement tracking, test management, and release assessment in one place.
+This platform combines requirement tracking, test management, and release assessment in one place. It's one of my main projects demonstrating full-stack development with integrated QA practices.
 
 ## Technical Skills
 
